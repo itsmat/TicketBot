@@ -1,0 +1,4 @@
+discord.py==2.1.0
+aiohttp==3.8.5
+colorama==0.4.6
+chat-exporter==2.5.3
